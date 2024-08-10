@@ -7,10 +7,9 @@
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
-<a href="https://codepen.io/Guigzerr" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2014/03/codepen-logo.svg" alt="lkfenalkn" height="30" width="40" /></a>
-<a href="https://dev.to/knfael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knfael" height="30" width="40" /></a>
-<a href="https://twitter.com/klfaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klfaz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jnk" height="30" width="40" /></a>
+<a href="https://codepen.io/Guigzerr" target="blank"><img align="center" src=./iconfinder-codepen-4550862_121336.svg alt="lkfenalkn" height="30" width="40" /></a>
+<a href="https://twitter.com/guillaumepgt_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klfaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/guillaume-prigent-244664252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jnk" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nnfzlnklnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nnfzlnklnn" height="30" width="40" /></a>
 <a href="https://codesandbox.com/lknflanlkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="lknflanlkn" hauteur="30" largeur="40" /></a>
 <a href="https://kaggle.com/nj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nj" height="30" width="40" /></a>
