@@ -1,39 +1,13 @@
-<h1 align="center">Bonjour 👋, je suis Guillaume Prigent</h1>
-<h3 align="center">Je suis passionné d'informatique</h3>
+<h1 align="center">Hi 👋, I'm Guillaume Prigent</h1>
+<h3 align="center">I am passionate about computers</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kjn&label=Profile%20views&color=0e75b6&style=flat" alt="kjn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kjn" alt="kjn" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/klfaz" target="blank"><img src="https://img.shields.io/twitter/follow/klfaz?logo=twitter&style=for-the-badge" alt="klfaz" /></a> </p>
-
-- 🔭 Je travaille actuellement sur [aa](za)
-
-- 🌱 J'apprends actuellement **a**
-
-- 👯 Je cherche à collaborer sur [aa](fza)
-
-- 🤝 Je cherche de l'aide sur [a](fza)
-
-- 👨‍💻 Tous mes projets sont disponibles sur [azfoioi.com](azfoioi.com)
-
-- 📝 J'écris régulièrement des articles sur [faz.com](faz.com)
-
-- 💬 Posez-moi des questions sur **fazfa**
-
-- 📫 Comment me contacter **azfa@faoi.co**
-
-- 📄 Découvrez mes expériences [faz.com](faz.com)
-
-- ⚡ Fait amusant **afz**
-
-### Articles de blog
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🌱 I am currently learning Rust
+- I am currently at school ESEO
 
 <h3 align="left">Contactez-moi :</h3>
 <p align="left">
-<a href="https://codepen.io/lkfenalkn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lkfenalkn" height="30" width="40" /></a>
+<a href="https://codepen.io/Guigzerr" target="blank"><img align="center" src="https://blog.codepen.io/wp-content/uploads/2014/03/codepen-logo.svg" alt="lkfenalkn" height="30" width="40" /></a>
 <a href="https://dev.to/knfael" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="knfael" height="30" width="40" /></a>
 <a href="https://twitter.com/klfaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="klfaz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jnk" height="30" width="40" /></a>
