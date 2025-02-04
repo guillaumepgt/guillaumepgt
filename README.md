@@ -1,12 +1,13 @@
 # 👋 Welcome to my GitHub profile!
 
 I am a developer passionate about programming and new technologies. Always looking for new knowledge, I like to explore various languages ​​and frameworks.
-## 🚀 À propos de moi
+## 🚀 About me
 
 - 🔹 Développement en **Python, C++, Angular**
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 - 🔹 Utilisation d'**Android Studio, WebStorm, PyCharm, CLion**
