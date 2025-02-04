@@ -17,13 +17,12 @@ I am a developer passionate about programming and new technologies. Always looki
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
   ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
 
-- 🔹 Expérience avec **Podman, BrightData, Orange Pi**
+- 🔹 Expérience avec **Docker, Podman, Orange Pi**
 
-- 🔹 Intérêt pour la **permaculture et l'informatique embarquée**
+- 🔹 Intérêt pour la **l'informatique embarquée**
 
 ## 📌 Projets en cours
 
-- 🌱 Aide à un agriculteur tunisien dans la **permaculture**
 - 🏗 Développement d'outils et d'automatisations en **Python & Angular**
 - 🖥 Optimisation et configuration de systèmes sous **Debian & Linux**
 
