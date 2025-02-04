@@ -1,7 +1,6 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# 👋 Welcome to my GitHub profile!
 
-Je suis un développeur passionné par la programmation et les nouvelles technologies. Toujours en quête de nouvelles connaissances, j'aime explorer divers langages et frameworks.
-
+I am a developer passionate about programming and new technologies. Always looking for new knowledge, I like to explore various languages ​​and frameworks.
 ## 🚀 À propos de moi
 
 - 🔹 Développement en **Python, C++, Angular**
