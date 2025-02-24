@@ -28,7 +28,7 @@ I am a developer passionate about programming and new technologies. Always looki
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ton.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guillaume-prigent-244664252/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:guillaume.prigent44@gmail.com)
 
 💡 *Toujours prêt à collaborer et à échanger sur des projets intéressants !*
