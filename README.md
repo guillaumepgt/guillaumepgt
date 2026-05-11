@@ -1,18 +1,54 @@
-# 👋 Hi, I'm Guillaume Prigent!
+<div align="center">
 
-**[span_1](start_span)[span_2](start_span)Computer Science Engineering Student @ ESEO Angers**[span_1](end_span)[span_2](end_span)
+```
+╔═══════════════════════════════════════════════════════════╗
+║  guillaume@eseo:~$  whoami                                ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-[span_3](start_span)[span_4](start_span)I am a developer passionate about building secure, high-performance systems and automating infrastructure[span_3](end_span)[span_4](end_span). [span_5](start_span)[span_6](start_span)Currently honing my skills in **Software Engineering** and **DevOps**, with a focus on reliability and system resilience[span_5](end_span)[span_6](end_span).
+# Guillaume Prigent
 
-## 🚀 About Me
+**Computer Science Engineering Student · ESEO Angers**
 
-* [span_7](start_span)🔹 **Software Development**: Proficient in **Python** (recursion, trees) and currently mastering **Rust** through projects like a bank account manager[span_7](end_span).
-* [span_8](start_span)[span_9](start_span)[span_10](start_span)🔹 **DevOps & Infrastructure**: Experienced in **Ansible** for datacenter automation and **CI/CD** pipelines via GitLab[span_8](end_span)[span_9](end_span)[span_10](end_span).
-* [span_11](start_span)🔹 **Cloud & Virtualization**: Familiar with **AWS**, **Azure**, **Docker**, and **VirtualBox/QEMU**[span_11](end_span).
-* [span_12](start_span)🔹 **Monitoring**: Implementing system visualization using **Grafana** dashboards[span_12](end_span).
-* [span_13](start_span)[span_14](start_span)🔹 **Professional Background**: Former IT Engineering Intern at **Naval Group**, working on critical data detection and automated notification systems[span_13](end_span)[span_14](end_span).
+*Building secure systems · Automating infrastructure · Staying resilient*
 
-## 🛠 Tech Stack
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/-guillaumeprigent/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:guillaume.prigent44@gmail.com)
+
+</div>
+
+---
+
+## `$ cat about.txt`
+
+Passionate about **Software Engineering** and **DevOps**, I focus on building systems that are *secure*, *high-performance*, and *maintainable*. Currently mastering Rust while deepening my expertise in infrastructure automation and cloud resilience.
+
+Former IT Engineering Intern at **Naval Group** — working on critical data detection and automated notification pipelines.
+
+---
+
+## `$ ls -la skills/`
+
+```
+drwxr-xr-x  software-development/
+drwxr-xr-x  devops-infrastructure/
+drwxr-xr-x  cloud-virtualization/
+drwxr-xr-x  monitoring/
+```
+
+| Domain | Technologies |
+|--------|-------------|
+| 🦀 **Languages** | Python · Rust |
+| ⚙️ **DevOps** | Ansible · GitLab CI/CD · Nginx |
+| ☁️ **Cloud & Virt** | AWS · Azure · Docker · VirtualBox · QEMU |
+| 📊 **Monitoring** | Grafana |
+| 🐧 **Platform** | Linux |
+
+---
+
+## `$ cat tech-stack.sh`
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -21,22 +57,48 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## 📌 Current Focus & Projects
+</div>
 
-* [span_15](start_span)[span_16](start_span)🏗 **Systems Programming**: Leveraging the memory safety of **Rust** for secure financial applications[span_15](end_span)[span_16](end_span).
-* [span_17](start_span)[span_18](start_span)⚙️ **Automation**: Crafting **Python** scripts for infrastructure orchestration and data integrity[span_17](end_span)[span_18](end_span).
-* [span_19](start_span)🌐 **Web Servers**: Configuring **Nginx** for APIs and dynamic website deployments[span_19](end_span).
+---
 
-## 🏃 Beyond Coding
+## `$ git log --current-focus`
 
-* [span_20](start_span)[span_21](start_span)🏊 Training for **Triathlons**[span_20](end_span)[span_21](end_span).
-* [span_22](start_span)🎹 Playing the **Piano**[span_22](end_span).
-* [span_23](start_span)🌍 **Volunteering**: Involved with Scouts et Guides de France and humanitarian permaculture projects in Tunisia[span_23](end_span).
+```bash
+commit a3f9c1b  🦀  Systems Programming
+  ↳ Memory-safe financial applications in Rust
 
-## 📫 Contact Me
+commit 7e2d04f  🐍  Infrastructure Automation  
+  ↳ Python scripts for orchestration & data integrity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/-guillaumeprigent/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:guillaume.prigent44@gmail.com)
+commit 2bc891a  🌐  Web Servers
+  ↳ Nginx config for APIs & dynamic deployments
+```
 
-[span_24](start_span)💡 *"Precision and endurance in every line of code."*[span_24](end_span)
+---
+
+## `$ grep -r interests /life`
+
+```
+🏊  /sport/triathlon        — training in progress
+🎹  /music/piano            — keys and code share a rhythm
+🌍  /volunteer/scouts       — Scouts et Guides de France
+🌱  /volunteer/permaculture — humanitarian projects in Tunisia
+```
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║  "Precision and endurance in every line of code."         ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+*guillaume@eseo:~$ █*
+
+</div>
